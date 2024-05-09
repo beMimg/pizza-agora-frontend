@@ -1,7 +1,7 @@
 const NavLinks = () => {
   return (
     <>
-      <p>Nosotros</p>
+      <a href="#nosotros">Nosotros</a>
       <p>Carta</p>
       <p>Contacto</p>
     </>
