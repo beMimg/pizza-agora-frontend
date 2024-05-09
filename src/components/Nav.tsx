@@ -5,7 +5,7 @@ import NavLinks from "./NavLinks";
 
 const Nav = () => {
   // This state will be usefull to nav bar options being hide or not depending on width of the screen.
-  const [isMdScreen, setIsMdScreen] = useState();
+  const [isMdScreen, setIsMdScreen] = useState(Boolean);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   function handleResize() {
