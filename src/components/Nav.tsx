@@ -31,7 +31,7 @@ const Nav = () => {
   }, []);
 
   return (
-    <nav className=" bg-transparent uppercase">
+    <nav className=" bg-transparent">
       <div className="mx-auto flex w-full max-w-7xl flex-col  items-center justify-between p-6 text-white md:justify-around">
         <div className="flex w-full flex-row items-center justify-between ">
           <p className="text-2xl font-bold xl:text-3xl">Agora</p>
