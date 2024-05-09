@@ -1,6 +1,3 @@
-import frontRestaurantImg from "../assets/front-restaurant.jpg";
-import chefImg from "../assets/chef.jpg";
-
 const Nosotros = () => {
   return (
     <section
