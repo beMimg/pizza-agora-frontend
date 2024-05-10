@@ -1,5 +1,5 @@
-import decoracionImg from "../assets/decoracion.jpg";
 import chefImg from "../assets/chef.jpg";
+
 const Nosotros = () => {
   return (
     <section
