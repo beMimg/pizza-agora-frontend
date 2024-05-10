@@ -10,6 +10,7 @@ const Nosotros = () => {
       <div className=" flex flex-col gap-6 px-6 md:grid md:grid-cols-2 md:flex-row ">
         <img
           src={chefImg}
+          alt="chef cooking pizza"
           className="max-h-[600px] min-h-[400px] self-center object-cover object-center"
         />
         <article className="flex flex-col items-center justify-evenly gap-6  md:justify-center md:px-0 md:pl-12 ">
